@@ -52,4 +52,37 @@ Z.Michalewicz.
 \newblock {\em Genetic Algorithms + Data Structures = Evolution Programs}.
 \newblock Wydawnictwo Naukowo-Techniczne, 1999.
 
+\bibitem{automaticProg}
+{Podział Automatycznego Programowania na kategorie.}
+\newblock
+  \url{https://www.techopedia.com/definition/5638/automatic-programming}.
+\newblock [Online; dostęp 10.02.19].
+
+\bibitem{coEvolution}
+X.~Yao A.~Arcuri.
+\newblock {Co-evolutionary atomatic programming for software development}.
+\newblock {\em Information Sciences}, pages 412--432, 2014.
+
+\bibitem{algHalt}
+R.~Janczewski.
+\newblock {\em {Złożonosć Obliczeniowa Algorytmów}}.
+\newblock Gdańsk, Luty 2002.
+
+\bibitem{networkProg}
+J.~Hu Y.Matsuya, K.~Hirasawa and J.~Murata.
+\newblock {Automatic Geneartion of Programs using Netework Programming}.
+\newblock {\em Proceedings of the 41st SICE Annual Conference. SICE 2002.},
+  pages 1269--1274, 2002.
+
+\bibitem{ownLanguage}
+N.~Pillay K.~Igwe.
+\newblock {Atomatic Programming Using Genetic Programming}.
+\newblock {\em 2013 Third World Congress on Information and Communication
+  Technologies (WICT 2013)}, pages 337--342, 2013.
+
+\bibitem{parsetree}
+{Drzewa wyporwadzenia}.
+\newblock
+  \url{http://interactivepython.org/courselib/static/pythonds/Trees/ParseTree.html}.
+
 \end{thebibliography}
