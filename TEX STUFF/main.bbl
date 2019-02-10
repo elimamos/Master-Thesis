@@ -1,0 +1,55 @@
+\begin{thebibliography}{10}
+
+\bibitem{darwin}
+A.~Alzohairy.
+\newblock Darwin's theory of evolution.
+\newblock 04 2009.
+
+\bibitem{darwinWeb}
+J.~Kominek.
+\newblock {Prawa ewolucji Darwina}.
+\newblock \url{http://wiw.org/~jkominek/lojban/9402/msg00074.html}, 1994.
+\newblock [Online; dostęp 09.02.19].
+
+\bibitem{encyk}
+{\em {Encyklopedia Powszechna PWN}}.
+\newblock PWN, 1973.
+
+\bibitem{berkely}
+{Typy mutacji}.
+\newblock
+  \url{https://evolution.berkeley.edu/evolibrary/article/%3C?%20echo%20$baseURL;%20?%3E/mutations_03l}.
+\newblock [Online; dostęp 09.02.19].
+
+\bibitem{bioDicWeb}
+{Definicja crossing-over}.
+\newblock \url{https://biologydictionary.net/crossing-over/}.
+\newblock [Online; dostęp 09.02.19].
+
+\bibitem{encykBio}
+{\em {Encyklopedia Biologiczna}}.
+\newblock GREG Krakow, 2017.
+\newblock Wydanie drugie, poprawione.
+
+\bibitem{hybry}
+K.A.~Jadwiszczak A.Chrzanowska.
+\newblock Rola hybrydyzacji międzygatunkowej w kształtowaniu zmienności
+  genetycznej oraz morfologicznej brzóz (betula l.).
+\newblock 2015.
+
+\bibitem{javaGen}
+B.~Kanber L.~Jackobson.
+\newblock {\em Genetic Algorithms in Java Basics}.
+\newblock Apress, 2015.
+
+\bibitem{genAlgWeb}
+{O algorytmach genetycznych}.
+\newblock \url{https://www.toptal.com/algorithms/genetic-algorithms}.
+\newblock [Online; dostęp 09.02.19].
+
+\bibitem{algBook}
+Z.Michalewicz.
+\newblock {\em Genetic Algorithms + Data Structures = Evolution Programs}.
+\newblock Wydawnictwo Naukowo-Techniczne, 1999.
+
+\end{thebibliography}
