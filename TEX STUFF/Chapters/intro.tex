@@ -19,7 +19,6 @@
 % redefinicja etykiety nagłówkowej listy algorytmów, domyślna jest po angielsku
 \renewcommand{\listalgorithmname}{Spis algorytmów}
 
-
 \usepackage[section]{placeins}
 \usepackage{pdfpages}
 
@@ -134,44 +133,14 @@
 \addto\captionspolish{\renewcommand*{\appendixname}{Dodatek}}
 
 %CZCIONKA%
-\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \linespread{1.25}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 \usepackage{csquotes}
 \usepackage[toc,page]{appendix}
-
-%bibliografia - język
- \usepackage{babelbib}
- \selectbiblanguage{polish}
- 
- 
-     
-     
 \begin{document}
 
-%\includepdf[pages={1}]{titlePage.pdf}
-%\newpage
-%\thispagestyle{empty}
-%\mbox{}
-%\includepdf[pages={1}]{oswiadczenie.pdf}
-%\newpage
-%\thispagestyle{empty}
-%\mbox{}
-{\renewcommand{\addtocontents}[2]{}
-\chapter*{Streszczenie}}
-\include{Chapters/intro}
-\include{Chapters/chap1}
-\include{Chapters/chap2}
-\include{Chapters/chap3}
-\include{Chapters/chap4}
-\include{Chapters/chap5}
-\tableofcontents
-
-
-
-
-
-\bibliographystyle{unsrt}
-\bibliography{bibliografia}
-
+\chapter{Wstęp i cele pracy} ~\label{sec:intro} 
 
 \end{document}

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.8)  15 FEB 2019 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.8)  15 FEB 2019 13:44
 entering extended mode
-**./chap1.tex
-(chap1.tex
+**./chap2.tex
+(chap2.tex
 LaTeX2e <2018-12-01>
 ("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
 Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
@@ -1159,8 +1159,8 @@ Package csquotes Info: Redefining alias 'default' -> 'polish'.
 LaTeX Warning: Unused global option(s):
     [10].
 
-(chap1.aux)
-\openout1 = `chap1.aux'.
+(chap2.aux)
+\openout1 = `chap2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
 LaTeX Font Info:    ... okay on input line 142.
@@ -1235,9 +1235,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 142.
 LaTeX Info: Redefining \pageref on input line 142.
 LaTeX Info: Redefining \nameref on input line 142.
- (chap1.out) (chap1.out)
+ (chap2.out) (chap2.out)
 \@outlinefile=\write4
-\openout4 = `chap1.out'.
+\openout4 = `chap2.out'.
 
 
 ("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscape
@@ -1267,256 +1267,48 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 144.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 146.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 147.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 148.
-
-Package natbib Warning: Citation `darwin' on page 1 undefined on input line 148
-.
-
-
-Package natbib Warning: Citation `darwin' on page 1 undefined on input line 149
-.
-
-
-Package natbib Warning: Citation `darwinWeb' on page 1 undefined on input line 
-149.
-
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 151.
-
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1phv.fd"
-File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
-)
-Overfull \hbox (6.94934pt too wide) in paragraph at lines 151--153
-\T1/phv/m/n/10 Wyja±nia, i» je-dy-nie zmien-no±¢ dzie-dziczna ma wpªyw na ewo-l
-u-cj¦. Zmien-
- []
-
-[1
-
-
-{C:/Users/elisa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-Package natbib Warning: Citation `encyk' on page 2 undefined on input line 162.
-
-
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 145.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 164.
-[2]
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 146.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 155.
 
-Package natbib Warning: Citation `berkely' on page 3 undefined on input line 17
-5.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Package natbib Warning: Citation `bioDicWeb' on page 3 undefined on input line 
-181.
-
-<img/crossing_over.jpg, id=71, 565.8741pt x 598.8774pt>
-File: img/crossing_over.jpg Graphic file (type jpg)
-<use img/crossing_over.jpg>
-Package pdftex.def Info: img/crossing_over.jpg  used on input line 185.
-(pdftex.def)             Requested size: 241.49895pt x 255.5841pt.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 186.
-
-Package natbib Warning: Citation `encykBio' on page 3 undefined on input line 1
-98.
-
-[3 <./img/crossing_over.jpg>]
-
-Package natbib Warning: Citation `hybry' on page 4 undefined on input line 200.
+ [1
 
 
-
-Package natbib Warning: Citation `javaGen' on page 4 undefined on input line 20
-2.
-
-
-Package natbib Warning: Citation `javaGen' on page 4 undefined on input line 20
-3.
-
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 207.
-
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 207.
+{C:/Users/elisa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+ (chap2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
 
 
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 207
-.
+Package rerunfilecheck Warning: File `chap2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 207
-.
-
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 207.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 207.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 207.
-LaTeX Font Info:    Try loading font information for U+msa on input line 207.
-
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 207.
-("C:\Users\elisa\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 1052) in paragraph at lines 215--215
-[]|\T1/phv/m/n/10 Przystosowanie osob-ni-ków do za-da-nego pro-blemu.
- []
-
-
-Underfull \hbox (badness 2057) in paragraph at lines 217--217
-[]|\T1/phv/m/n/10 Rekombinacja ge-nów chro-mo-so-mów ro-dzi-ciel-skich,
- []
-
-
-Overfull \hbox (35.85942pt too wide) in paragraph at lines 207--222
- [][] 
- []
-
-
-Package natbib Warning: Citation `genAlgWeb' on page 4 undefined on input line 
-228.
-
-
-Package natbib Warning: Citation `algBook' on page 4 undefined on input line 22
-8.
-
-[4] [5]
-<img/program_ewolucyjny_alg.jpg, id=96, 404.51125pt x 652.4375pt>
-File: img/program_ewolucyjny_alg.jpg Graphic file (type jpg)
-<use img/program_ewolucyjny_alg.jpg>
-Package pdftex.def Info: img/program_ewolucyjny_alg.jpg  used on input line 233
-.
-(pdftex.def)             Requested size: 241.49895pt x 389.52422pt.
-<img/schemat_alg_gen.jpg, id=99, 313.17pt x 183.68625pt>
-File: img/schemat_alg_gen.jpg Graphic file (type jpg)
-<use img/schemat_alg_gen.jpg>
-Package pdftex.def Info: img/schemat_alg_gen.jpg  used on input line 252.
-(pdftex.def)             Requested size: 241.49895pt x 141.65184pt.
-<img/schemat_prog_ew.jpg, id=100, 313.17pt x 183.68625pt>
-File: img/schemat_prog_ew.jpg Graphic file (type jpg)
-<use img/schemat_prog_ew.jpg>
-Package pdftex.def Info: img/schemat_prog_ew.jpg  used on input line 256.
-(pdftex.def)             Requested size: 241.49895pt x 141.65184pt.
- [6 <./img/program_ewolucyjny_alg.jpg>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package natbib Warning: Citation `algBook' on page 7 undefined on input line 26
-1.
-
-[7]
-
-Package natbib Warning: Citation `automaticProg' on page 8 undefined on input l
-ine 278.
-
-
-Overfull \hbox (1.01926pt too wide) in paragraph at lines 280--282
-\T1/phv/m/n/10 gra-mi-sta nie musi sa-mo-dziel-nie im-ple-men-to-wa¢, ani zna¢ 
-spo-so-bów dzia-
- []
-
-[8 <./img/schemat_alg_gen.jpg> <./img/schemat_prog_ew.jpg>]
-
-Package natbib Warning: Citation `coEvolution' on page 9 undefined on input lin
-e 290.
-
-
-Package natbib Warning: Citation `algHalt' on page 9 undefined on input line 29
-3.
-
-
-Overfull \hbox (1.37933pt too wide) in paragraph at lines 289--294
- []\T1/phv/m/n/10 Jed-nym z cie-kaw-szych roz-wi¡-za«, które udaªo si¦ zna-le¹¢
- jest po-dej-±cie przed-
- []
-
-[9]
-
-Package natbib Warning: Citation `networkProg' on page 10 undefined on input li
-ne 295.
-
-
-Package natbib Warning: Citation `ownLanguage' on page 10 undefined on input li
-ne 312.
-
-
-Overfull \hbox (34.03304pt too wide) in paragraph at lines 316--328
- [][] 
- []
-
-
-Package natbib Warning: Citation `ownLanguage' on page 10 undefined on input li
-ne 328.
-
-
-Package natbib Warning: Citation `ownLanguage' on page 10 undefined on input li
-ne 328.
-
-
-Package natbib Warning: Citation `parsetree' on page 10 undefined on input line
- 334.
-
-[10] [11]
-
-Package natbib Warning: There were undefined citations.
-
-[12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 343.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 343.
- (chap1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 343.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 343.
-Package rerunfilecheck Info: File `chap1.out' has not changed.
-(rerunfilecheck)             Checksum: C116A631D399B62F3B8F3E9E94C29699;1037.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 343.
+Package rerunfilecheck Info: Checksums for `chap2.out':
+(rerunfilecheck)             Before: 4C8B1002F73F22BD5641F65513F76A31;699
+(rerunfilecheck)             After:  F8D139D985FCE3B3017671649A727A1F;751.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
  ) 
 Here is how much of TeX's memory you used:
- 24039 strings out of 492946
- 431102 string characters out of 3126267
- 521133 words of memory out of 3000000
- 27383 multiletter control sequences out of 15000+200000
- 47355 words of font info for 53 fonts, out of 3000000 for 9000
+ 23838 strings out of 492946
+ 427172 string characters out of 3126267
+ 511714 words of memory out of 3000000
+ 27258 multiletter control sequences out of 15000+200000
+ 24997 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,14n,102p,1282b,494s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.en
-c}{C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
-t.enc}{C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-m
-athsy.enc}{C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
-e/8r.enc}<C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
-m/lmmi10.pfb><C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/lm/lmmi7.pfb><C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmr10.pfb><C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/lm/lmr7.pfb><C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmsy10.pfb><C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/elisa/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/elisa/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/elisa/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on chap1.pdf (12 pages, 1159686 bytes).
+ 67i,14n,102p,943b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/elisa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
+b8a.pfb>
+Output written on chap2.pdf (2 pages, 18827 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

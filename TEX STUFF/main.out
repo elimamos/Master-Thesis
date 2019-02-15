@@ -1,13 +1,49 @@
-\BOOKMARK [0][-]{chapter.1}{Stan wiedzy}{}% 1
-\BOOKMARK [1][-]{section.1.1}{ Teoria ewolucji}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Ewolucja Organiczna}{chapter.1}% 3
-\BOOKMARK [2][-]{subsection.1.2.1}{ Mutacje i zmiennosc rekombinacyjna }{section.1.2}% 4
-\BOOKMARK [2][-]{subsection.1.2.2}{Dob\363r naturalny}{section.1.2}% 5
-\BOOKMARK [2][-]{subsection.1.2.3}{ Dryft genetyczny \(zjawisko Wrighta\) }{section.1.2}% 6
-\BOOKMARK [2][-]{subsection.1.2.4}{ Hybrydyzacja \(krzyzowanie\) }{section.1.2}% 7
-\BOOKMARK [1][-]{section.1.3}{ Strategie ewolucyjne \(ES\) }{chapter.1}% 8
-\BOOKMARK [2][-]{subsection.1.3.1}{ Algorytm ewolucyjny \(EA\), Algorytm Genetyczny \(GA\)}{section.1.3}% 9
-\BOOKMARK [2][-]{subsection.1.3.2}{ Algorytm genetyczny a program ewolucyjny}{section.1.3}% 10
-\BOOKMARK [2][-]{subsection.1.3.3}{Wymagania}{section.1.3}% 11
-\BOOKMARK [1][-]{section.1.4}{Ewolucyjne generowanie kod\363w zr\363d\233owych}{chapter.1}% 12
-\BOOKMARK [2][-]{subsection.1.4.1}{Dotychczasowe rozwiazania }{section.1.4}% 13
+\BOOKMARK [0][-]{chapter.1}{Wstep i cele pracy}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Stan wiedzy}{}% 2
+\BOOKMARK [1][-]{section.2.1}{ Teoria ewolucji}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Ewolucja Organiczna}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{ Mutacje i zmiennosc rekombinacyjna }{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{Dob\363r naturalny}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.3}{ Dryft genetyczny \(zjawisko Wrighta\) }{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.4}{ Hybrydyzacja \(krzyzowanie\) }{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{ Strategie ewolucyjne \(ES\) }{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{ Algorytm ewolucyjny \(EA\), Algorytm Genetyczny \(GA\)}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.2}{ Algorytm genetyczny a program ewolucyjny}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.3}{Wymagania}{section.2.3}% 12
+\BOOKMARK [1][-]{section.2.4}{Ewolucyjne generowanie kod\363w zr\363d\233owych}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Dotychczasowe rozwiazania }{section.2.4}% 14
+\BOOKMARK [1][-]{section.2.5}{Podsumowanie}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Analiza projektowa}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Wybrane technologie}{chapter.3}% 17
+\BOOKMARK [2][-]{subsection.3.1.1}{C\043}{section.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.1.2}{GeneticSharp}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.3}{QT}{section.3.1}% 20
+\BOOKMARK [1][-]{section.3.2}{Architektura systemu}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{Wymagania}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{Ograniczenia}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.5}{Przypadki uzycia}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.6}{Propozycja rozwiazania}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.6.1}{Prototyp}{section.3.6}% 26
+\BOOKMARK [2][-]{subsection.3.6.2}{Projekt test\363w}{section.3.6}% 27
+\BOOKMARK [1][-]{section.3.7}{Podsumowanie}{chapter.3}% 28
+\BOOKMARK [0][-]{chapter.4}{Implementacja}{}% 29
+\BOOKMARK [1][-]{section.4.1}{Funkcjonalnosc}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.1.1}{Inicjalizacja populacji wejsciowej}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.2}{Operator krzyzowania}{section.4.1}% 32
+\BOOKMARK [2][-]{subsection.4.1.3}{Operator mutacji}{section.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.1.4}{Funkcja dopasowania}{section.4.1}% 34
+\BOOKMARK [1][-]{section.4.2}{Klasy}{chapter.4}% 35
+\BOOKMARK [2][-]{subsection.4.2.1}{Diagram klas}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.2}{Funkcjonalnosc klas}{section.4.2}% 37
+\BOOKMARK [1][-]{section.4.3}{Algorytmy}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.4}{GUI}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.5}{Podsumowanie}{chapter.4}% 40
+\BOOKMARK [0][-]{chapter.5}{Testy i wyniki}{}% 41
+\BOOKMARK [1][-]{section.5.1}{Testy}{chapter.5}% 42
+\BOOKMARK [2][-]{subsection.5.1.1}{Warunki poczatkowe}{section.5.1}% 43
+\BOOKMARK [1][-]{section.5.2}{Wyniki}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.3}{Wnioski}{chapter.5}% 45
+\BOOKMARK [0][-]{chapter.6}{Podsumowanie}{}% 46
+\BOOKMARK [1][-]{section.6.1}{Wyniki koncowe}{chapter.6}% 47
+\BOOKMARK [1][-]{section.6.2}{Podsumowanie wynik\363w pracy}{chapter.6}% 48
+\BOOKMARK [1][-]{section.6.3}{Mozliwosci dalszego rozwoju}{chapter.6}% 49
